@@ -1,10 +1,18 @@
-# Exercicio Cálculo IMC Fullture School
-O objetivo do exercio, é exercitar os conhecimentos sobre HTML, CSS e Javascript.
+## Getting Started
 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-# Cálculo IMC
-Cálculo IMC usando javascript e o framework bootstrap.
+## Folder Structure
 
-## O que é IMC?
-> O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. Desenvolvido pelo polímata Lambert Quételet no fim do século XIX, trata-se de um método fácil e rápido para a avaliação do nível de gordura de cada pessoa, sendo, por isso, um preditor internacional de obesidade adotado pela Organização Mundial da Saúde (OMS).
-fonte: [wikipedia](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal)
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
